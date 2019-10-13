@@ -1,3 +1,4 @@
 
 .DS_Store
 .basesystem_systemdepends_darwin64-signed.mpack.icloud
+*.icloud
